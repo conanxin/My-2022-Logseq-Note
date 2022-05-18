@@ -1,0 +1,3 @@
+- title:: new page_ jaron lanier wants to build a new middle class on micropayments
+-
+-
