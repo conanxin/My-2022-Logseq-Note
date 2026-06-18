@@ -1,33 +1,69 @@
 title:: AI / 大语言模型 / 文明
 
 - ## 主题简介
-  - 这条主线整理 GPT-3、语言模型、DeepMind、常识推理和 AI 与文明未来相关笔记。
-  - 它关注的不是单个 AI 产品，而是机器智能如何改变知识生产、科学发现和社会判断。
-- ## 2022 年笔记中的代表性线索
-  - Stephen Wolfram 关于 AI 与文明未来的访谈。
-  - GPT-3、大型语言模型和“会说但是否理解”的问题。
-  - Gary Marcus 对深度学习路线的批评。
-  - DeepMind、AlphaFold 和 AI 辅助科学发现。
-  - 常识推理、Cyc 和规则系统的历史线索。
-- ## 关键标签
-  - #人工智能
-  - GPT-3
-  - DeepMind
-  - AlphaFold
-  - 常识
-  - 文明
-  - 语言模型
-- ## 原始日记入口
+  - 这条主线整理 GPT-3、大语言模型、DeepMind、常识推理、AI 生成图像和 AI 与文明未来相关笔记。
+  - 2022 年的重点不是“有哪些产品”，而是 AI 怎样改变表达、科学发现、知识工作和社会信任。
+- ## 代表性原始条目
+  - [[2022_05_10]]
+    - `AI & The Future Of Civilization`：Stephen Wolfram 讨论人类如何把目标传达给 AI，以及自然语言的边界。
+    - 笔记中留下了一个很早的问题：“当大多数人都可以编写代码时，世界会是什么样子？”
+  - [[2022_05_13]]
+    - `These 3-Michelin-starred plates were invented by AI`：Midjourney 用文本生成不存在的米其林餐盘，AI 图像作为“想象力扩展”出现。
+    - `Open Metaverse OS`：GPT-3 被放进虚拟角色和 NFT 化身叙事里，AI 与元宇宙内容生成发生交叉。
+  - [[2022_05_14]]
+    - `A.I. Is Mastering Language. Should We Trust What It Says?`：GPT-3、大型语言模型、Gary Marcus、Nick Bostrom 和 OpenAI 使用限制。
+    - `Programmable Notes`：如果不谈 AI，就很难谈“帮助思考的智能计算系统”。
+    - `Deep Learning Is Hitting a Wall`：深度学习与符号主义、常识推理之间的老问题重新浮现。
+  - [[2022_05_17]]
+    - `This is the reason Demis Hassabis started DeepMind`：AlphaFold 和科学复兴想象。
+    - `Can Computers Learn Common Sense?`：常识作为 AI 的“暗物质”，连接 GPT-3、Cyc 和多路径学习。
+- ## 相关日记入口
   - [[2022_05_10]]
   - [[2022_05_13]]
   - [[2022_05_14]]
   - [[2022_05_17]]
+- ## 相关标签
+  - #人工智能
+  - GPT-3
+  - 大语言模型
+  - DeepMind
+  - AlphaFold
+  - Midjourney
+  - 常识
+  - 文明
+- ## 关键外部材料或项目名
+  - `AI & The Future Of Civilization`
+  - `A.I. Is Mastering Language. Should We Trust What It Says?`
+  - `Deep Learning Is Hitting a Wall`
+  - `Can Computers Learn Common Sense?`
+  - `DeepMind / AlphaFold`
+  - `Midjourney`
+  - `GPT-3`
+  - `Cyc`
+  - `Elicit`
+- ## 2022 年关注点
+  - 大语言模型是否只是流畅模仿，还是已经改变知识表达的底层条件。
+  - 自然语言能否成为和 AI 协作的接口，以及它无法描述的对象该如何表达。
+  - AI 图像生成开始进入设计和艺术想象，但还没有完全变成日常基础设施。
+  - AI 辅助科研的价值在 AlphaFold 中变得清晰，科学发现成为比聊天更深的方向。
+  - 常识、目标、对齐和社会信任问题，在模型变强之前已经被这些材料提前提出。
 - ## 2026 年回看价值
-  - 这些材料记录了大模型普及前夜的观察切片。
-  - 2026 年回看，它们能帮助区分早期理论问题和后来产品热潮之间的差别。
+  - 这些笔记是大模型浪潮全面爆发前夜的切片，保留了许多后来变成主流讨论的原始问题。
+  - 2026 年看，Wolfram、Marcus、Bostrom、Hassabis 这些线索可以帮助区分“产品兴奋”和“文明问题”。
+  - 它也提醒人们，AI 的关键不只是生成文本或图像，而是如何表达目标、验证事实、处理常识和重构科学工作流。
 - ## 可继续写成的文章题目
   - 《GPT-3 之前夜：我在 2022 年读到的 AI 问题》
+  - 《自然语言会成为 AI 时代的编程接口吗》
   - 《常识为什么是人工智能的暗物质》
-  - 《从 AlphaFold 到科学复兴的想象》
-  - 《大语言模型到底理解了什么》
+  - 《从 Midjourney 餐盘到生成式想象力》
+  - 《AlphaFold 之后，AI 科学复兴意味着什么》
   - 《AI 与文明目标：一个旧笔记里的新问题》
+- ## 与其他主题页的交叉链接
+  - [[Tools for Thought / 可编程笔记]]
+    - Programmable Notes、Elicit 和智能笔记系统把 AI 放进知识工作的日常界面。
+  - [[元宇宙 / 游戏 / 虚拟世界]]
+    - AI 生成角色、虚拟世界内容和游戏系统，是 AI 与元宇宙的交汇处。
+  - [[设计 / 艺术 / 未来想象]]
+    - Midjourney 和 AI 餐盘把生成模型带入艺术、设计和感官想象。
+  - [[Web3 / 区块链 / DAO]]
+    - Alethea AI 等项目把 GPT-3 式能力与 NFT、化身、Web3 身份叙事连接起来。

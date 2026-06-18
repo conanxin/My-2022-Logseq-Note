@@ -1,36 +1,75 @@
 title:: Tools for Thought / 可编程笔记
 
 - ## 主题简介
-  - 这条主线整理思考工具、可编程笔记、动态媒介和个人知识系统相关笔记。
-  - 它把 Heptabase、Programmable Notes、Dynamicland 等工具放进 Engelbart、Ted Nelson、Alan Kay、Bret Victor 的长线传统里理解。
-- ## 2022 年笔记中的代表性线索
-  - Heptabase 作为卡片、白板和知识操作系统的尝试。
-  - Programmable Notes 把笔记推进到规则、触发器和自动化动作。
-  - Subconscious、反向链接和双链笔记的日常使用想象。
-  - Dynamicland 与 Ink & Switch 对动态模型、直接操纵和可视化系统的关注。
-  - Engelbart、Ted Nelson、Alan Kay、Bret Victor 代表的思考媒介历史。
-- ## 关键标签
-  - #工具
-  - #设计
-  - Heptabase
-  - Programmable Notes
-  - Dynamicland
-  - Engelbart
-  - Alan Kay
-  - Bret Victor
-- ## 原始日记入口
+  - 这条主线整理思考工具、可编程笔记、动态媒介、双链、白板和个人知识系统相关笔记。
+  - 它把 Heptabase、Subconscious、Programmable Notes、Dynamicland 放进 Engelbart、Ted Nelson、Alan Kay、Bret Victor 的长线传统里理解。
+- ## 代表性原始条目
+  - [[2022_05_10]]
+    - `Vannevar Bush / Pieces of the Action`：早期信息组织和扩展心智的线索。
+  - [[2022_05_12]]
+    - `Tools & Craft Podcast: Alan Kay`：个人计算、GUI、Smalltalk、儿童学习和文明工具。
+    - `Heptabase`：Timeline、Card Library、Map、Meta Apps，把知识管理想象成操作系统。
+    - `My Vision: A Forgotten History`：Engelbart、Ted Nelson、Alan Kay、Bret Victor 串成动态知识库和开放超文本系统传统。
+  - [[2022_05_14]]
+    - `Tools for thought: science, design, art, craftsmanship?`：把思考工具放在科学、设计、艺术和工艺之间。
+    - `Programmable Notes`：用触发器、规则和外部数据源让笔记开始行动。
+    - `Launching Subconscious Alpha`：搜索式创建笔记、反向链接和“链接也是标签”的使用方式。
+  - [[2022_05_16]]
+    - `Ink & Switch: Drawing Dynamic Models`：嵌入式计算、活力、抽象和直接操纵。
+    - `Dynamicland ethnographic research`：从工具演示走向动态空间媒介的平台阶梯。
+  - [[2022_05_17]]
+    - `Utopian Hacks`：工程师如何破解技术是什么、可以是什么的想象。
+    - `The Internet Is Not What You Think It Is`：互联网作为哲学和警告，也影响知识系统的公共性问题。
+- ## 相关日记入口
   - [[2022_05_10]]
   - [[2022_05_12]]
-  - [[2022_05_13]]
   - [[2022_05_14]]
   - [[2022_05_16]]
   - [[2022_05_17]]
+- ## 相关标签
+  - #工具
+  - #设计
+  - #人物
+  - #计算机
+  - Heptabase
+  - Programmable Notes
+  - Subconscious
+  - Dynamicland
+  - Engelbart
+  - Ted Nelson
+  - Alan Kay
+  - Bret Victor
+- ## 关键外部材料或项目名
+  - `Heptabase`
+  - `Programmable Notes`
+  - `Subconscious`
+  - `Ink & Switch: Drawing Dynamic Models`
+  - `Dynamicland`
+  - `Open Hyperdocument System`
+  - `My Vision: A Forgotten History`
+  - `Tools for thought: science, design, art, craftsmanship?`
+- ## 2022 年关注点
+  - 笔记不只是保存文本，还可以表达模型、触发动作、组织工作流。
+  - 双链和反向链接不是炫技，而是让想法有上下文和可追踪关系。
+  - 白板、卡片、动态模型和可编程规则分别解决不同层次的思考问题。
+  - 真正的思考工具不只是个人效率软件，而是对“人如何共同理解复杂系统”的媒介设计。
 - ## 2026 年回看价值
-  - 这些笔记提醒我们，个人知识管理不只是文件整理。
-  - 真正的问题是怎样表示问题、建立连接、运行模型，并支持长期思考。
+  - AI 工具普及后，Tools for Thought 的问题没有消失，反而更清晰：人需要什么外部表示来判断、修改和验证机器输出。
+  - 这些笔记把当前知识软件和 Engelbart / Nelson / Kay / Victor 的长线传统接起来，避免只按产品功能理解笔记系统。
+  - 2026 年看，可编程笔记很适合作为个人知识档案的下一步：让静态收藏转为可查询、可组合、可再写作的材料库。
 - ## 可继续写成的文章题目
   - 《可编程笔记：笔记系统如何开始行动》
   - 《从 Engelbart 到 Heptabase 的思考工具线索》
   - 《Dynamicland 为什么仍然重要》
   - 《双链、白板和卡片：三种知识工作界面》
   - 《AI 时代还需要 Tools for Thought 吗》
+  - 《反向链接为什么既是链接也是标签》
+- ## 与其他主题页的交叉链接
+  - [[AI / 大语言模型 / 文明]]
+    - Elicit、Programmable Notes 和自然语言接口把 AI 带进研究与笔记流程。
+  - [[设计 / 艺术 / 未来想象]]
+    - 动态模型、可视化和沉浸式媒介都在处理“如何让复杂系统可感知”。
+  - [[永久计算 / 太阳朋克 / 长期主义工具]]
+    - 长期可读、离线优先和低依赖工具，是知识系统能否成为档案的基础。
+  - [[Web3 / 区块链 / DAO]]
+    - Lens、DeSoc、开放超文本和双向链接都在讨论关系网络如何被表示和保存。

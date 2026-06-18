@@ -7,11 +7,17 @@
     - GitHub 仓库：[https://github.com/conanxin/My-2022-Logseq-Note](https://github.com/conanxin/My-2022-Logseq-Note)
 - ## 主题入口
   - [[Web3 / 区块链 / DAO]]
+    - 区块链、DAO、DeSoc、Lens、Luna 崩溃、NFT 和区块空间等线索。
   - [[AI / 大语言模型 / 文明]]
+    - GPT-3、Midjourney、DeepMind、AlphaFold、常识推理和 AI 与文明问题。
   - [[Tools for Thought / 可编程笔记]]
+    - Heptabase、Programmable Notes、Subconscious、Dynamicland 和 Engelbart 传统。
   - [[元宇宙 / 游戏 / 虚拟世界]]
+    - Walmart VR、Open Metaverse OS、Will Wright、GDC、Fortnite 和互操作性。
   - [[设计 / 艺术 / 未来想象]]
+    - 新艺术、OMNI、teamLab、Smithsonian 2071、可视化和动态模型。
   - [[永久计算 / 太阳朋克 / 长期主义工具]]
+    - Solarpunk、Low-Tech、Hundred Rabbits、Uxn、IPFS 和离线优先工具。
 - ## 原始日记入口
   - [[2022_05_09]]
   - [[2022_05_10]]

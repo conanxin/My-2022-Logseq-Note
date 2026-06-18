@@ -1,23 +1,29 @@
 title:: Web3 / 区块链 / DAO
 
 - ## 主题简介
-  - 这条主线整理 2022 年 5 月笔记中最密集的 Web3、区块链、DAO、NFT 和去中心化社会内容。
-  - 它既记录了当时的技术想象，也保留了 Luna/UST、NFT 金融化和 DAO 治理等现实校正。
-- ## 2022 年笔记中的代表性线索
-  - Vitalik Buterin、Glen Weyl、Puja Ohlhaver 的 DeSoc / SBT 讨论。
-  - 以太坊、区块空间、智能合约和 Web3 应用架构。
-  - DAO 与合作社、游戏公会、网络组织之间的关系。
-  - NFT 作为资产、社群凭证、艺术收藏和文化产品的多重角色。
-  - Luna/UST 崩盘、Chia、EOS、Dfinity、X to Earn 等风险案例。
-- ## 关键标签
-  - #web3
-  - #区块链
-  - #DAO
-  - #NFT
-  - #以太坊
-  - #加密货币
-  - #去中心化
-- ## 原始日记入口
+  - 这条主线整理 2022 年 5 月笔记中最密集的 Web3、区块链、DAO、NFT、DeSoc 和加密经济内容。
+  - 它不是单纯记录行情，而是把技术架构、组织治理、所有权想象和风险事件放在同一张图里看。
+- ## 代表性原始条目
+  - [[2022_05_09]]
+    - `Foresight Ventures: Crypto 思潮编年史 (1997 - 2022)`：把密码朋克、比特币、以太坊之前的思想史拉成时间线。
+  - [[2022_05_10]]
+    - `Metalabels`：把“共同身份 + 共同发布”作为 Web3 组织形态来理解。
+    - `Balaji Srinivasan: Technology Will Lead to a Borderless World`：关注虚拟货币、VR 和无国界世界的组合。
+  - [[2022_05_11]]
+    - `The Sovereign Individual`、`CryptoZunks`、`Azuki`、`UST / LUNA 脱钩`：理想叙事与市场风险同时出现。
+  - [[2022_05_12]]
+    - `The Uncanny Mind That Built Ethereum`：以太坊作为“可编程世界计算机”的想象。
+    - `A Prehistory of DAOs`、`DAOs as novelty search engines`、`Web3 中的市场进入`、`Web 3.0 应用的架构`：从组织、增长、架构三个面向看 Web3。
+    - `Decentralized Society: Finding Web3's Soul`：SBT / DeSoc 线索开始出现。
+  - [[2022_05_13]]
+    - `A Theory of Justice for Web3`、`Decentralized Society (DeSoc) explained`、`Lens Protocol`、`Open Metaverse OS`：Web3 从金融走向身份、社交和虚拟世界基础设施。
+  - [[2022_05_14]]
+    - `Web3 and Metaverse`、`NFT Lending`、`Luna Cryptocurrency Collapse`、`The Merge Works`、`Decentralization for Web3 Builders`：一边是基础设施成熟，一边是金融风险暴露。
+  - [[2022_05_16]]
+    - `The Web3 Decentralization Debate Is Focused on the Wrong Question`、`Blockspace`、`Consensus Capital Markets`：把“去中心化”具体化为区块空间、治理和状态市场。
+  - [[2022_05_17]]
+    - `Vitalik 最新论文全文：找寻 Web3 的灵魂`、`My Friends My Data`、`Tim Sweeney`、`NFTs are still worth something`：身份、数据迁移、平台互操作和 NFT 价值回到社会关系层面。
+- ## 相关日记入口
   - [[2022_05_09]]
   - [[2022_05_10]]
   - [[2022_05_11]]
@@ -26,12 +32,47 @@ title:: Web3 / 区块链 / DAO
   - [[2022_05_14]]
   - [[2022_05_16]]
   - [[2022_05_17]]
+- ## 相关标签
+  - #web3
+  - #区块链
+  - #DAO
+  - #NFT
+  - #以太坊
+  - #加密货币
+  - #去中心化
+- ## 关键外部材料或项目名
+  - `Decentralized Society: Finding Web3's Soul`
+  - `A Theory of Justice for Web3`
+  - `A Prehistory of DAOs`
+  - `Lens Protocol`
+  - `Metalabels`
+  - `Ethereum / The Merge / Blockspace`
+  - `UST / LUNA`
+  - `NFT Playbook / NFT Lending / PROOF / Moonbirds`
+  - `Dfinity / Chia / EOS / Mercury Statechain`
+- ## 2022 年关注点
+  - Web3 是否只是金融投机，还是能成为新的身份、组织和公共协作基础设施。
+  - DAO 是否能从“代币投票”走向更像合作社、社区和网络组织的治理方式。
+  - DeSoc / SBT / Lens 等协议是否能让社交关系脱离平台封锁。
+  - 区块空间、智能合约和去中心化架构怎样改变软件承诺的性质。
+  - Luna/UST、NFT 金融化、X to Earn 等案例暴露了叙事和机制之间的裂缝。
 - ## 2026 年回看价值
-  - 这批笔记可以帮助回看 Web3 高潮期的概念热度、治理想象和风险暴露。
-  - 它的价值不在于证明某个判断完全正确，而在于保留当时问题意识的原始现场。
+  - 这批笔记保留了 Web3 高峰期的现场：一面是“新制度”的想象，一面是泡沫、崩盘和治理脆弱性。
+  - 2026 年再看，最有价值的不是某个项目涨跌，而是当时反复出现的问题：身份、所有权、数据迁移、组织治理和公共基础设施。
+  - 它也提醒读者，去中心化不是一个口号，而是一组技术、经济、法律和社区结构之间的取舍。
 - ## 可继续写成的文章题目
   - 《从高塔到广场：2022 年我怎样理解 Web3》
-  - 《DAO 不是公司之后是什么》
-  - 《去中心化社会的承诺与限制》
-  - 《Luna 崩盘之后重看 Web3 叙事》
+  - 《DAO 的史前史：合作社、游戏公会与网络组织》
+  - 《DeSoc 和 SBT：Web3 为什么开始寻找“灵魂”》
+  - 《Luna 崩盘之后重看算法稳定币》
+  - 《区块空间到底是什么商品》
   - 《NFT 的价值不只是价格吗》
+- ## 与其他主题页的交叉链接
+  - [[元宇宙 / 游戏 / 虚拟世界]]
+    - Open Metaverse OS、NFT 互操作和 Fortnite/Roblox 平台治理把 Web3 与虚拟世界接在一起。
+  - [[AI / 大语言模型 / 文明]]
+    - Alethea AI、GPT-3 化身和自动生成虚拟世界内容，让 AI 成为 Web3 叙事的一部分。
+  - [[Tools for Thought / 可编程笔记]]
+    - DeSoc、Lens 和双向链接都在处理“关系如何被表示”的问题。
+  - [[永久计算 / 太阳朋克 / 长期主义工具]]
+    - IPFS、去中心化内容网络和永久科学数据共享，是 Web3 与长期保存之间的交叉点。
