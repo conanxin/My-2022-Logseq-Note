@@ -60,15 +60,16 @@ https://conanxin.github.io/My-2022-Logseq-Note/#/page/contents
 - 首页包含项目说明、图谱统计、升级记录入口。
 - Markdown 链接检查通过。
 
-发布后需要再次验证：
+发布后验证：
 
-- GitHub Actions `Publish Logseq` run 成功。
-- `#/page/contents` 不再空白。
-- 6 条主题入口可打开。
-- 原始日记入口可打开。
+- GitHub Actions `Publish Logseq` run `27762870282` 成功。
+- Pages 根地址返回 HTTP `200`。
+- `#/page/contents` 不再空白，页面可见 `My 2022 Logseq Note`、6 条主题入口和 8 条日记入口。
+- 浏览器点击 `[[Web3 / 区块链 / DAO]]` 可打开对应主题页。
+- 浏览器点击 `[[2022_05_09]]` 可打开原始日记页 `May 9th, 2022`。
 
 ## 下一步建议
 
-1. Pages 发布完成后，用浏览器检查首页和主题页跳转。
-2. 如发现 `[[2022_05_09]]` 等日记入口没有进入原始日记，可在后续小步新增日期桥接页，不直接改动 `journals/`。
-3. 后续可以为 6 个主题页补充代表性原文摘录。
+1. 后续可以为 6 个主题页补充代表性原文摘录。
+2. 如果继续做展示增强，可以在 README 中加入一张发布页截图。
+3. 保持原始 `journals/` 和 `assets/` 不动，把整理工作继续放在 `pages/` 与 `docs/`。
