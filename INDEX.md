@@ -1,6 +1,10 @@
 # 读者入口
 
+> 在线阅读入口待启用：发布工作流已经生成 Logseq graph 到 `gh-pages` 分支。完成 GitHub Pages 设置后，原始 Logseq graph 预计可在 `https://conanxin.github.io/My-2022-Logseq-Note/` 阅读。
+
 这份索引用来帮助读者从一个旧 Logseq graph 进入主题。原始笔记仍保留在 `journals/` 和 `pages/` 中；这里做的是重新分线、解释和指路。
+
+如果你想看整理后的导读，可以从下面 6 条主线进入；如果你想看原始 Logseq graph，需要先在 GitHub Pages 中启用 `gh-pages / root` 发布源。
 
 ## 1. Web3 / 区块链 / DAO
 

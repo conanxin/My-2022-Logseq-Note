@@ -1,5 +1,7 @@
 # My 2022 Logseq Note
 
+> 发布状态：Logseq GitHub Pages 工作流已成功生成 `gh-pages` 分支，但仓库 GitHub Pages 目前尚未启用。待在 GitHub Settings -> Pages 中选择 `gh-pages / root` 后，预计可通过 `https://conanxin.github.io/My-2022-Logseq-Note/` 在线阅读。
+
 这是 2022 年 5 月的一组 Logseq 阅读笔记与知识采集档案。
 
 它不是一个代码应用，而是一份早期个人知识系统的快照：我当时把每天看到的文章、项目、书、视频、人物和概念收集到 Logseq 中，用标签、双链和每日记录串起来。今天重新整理它，是为了让这批旧笔记变得可读、可展示，也方便以后继续拆分成文章、专题或研究线索。
@@ -55,8 +57,10 @@ python .\scripts\analyze_logseq_archive.py
 
 仓库包含 GitHub Actions workflow：`.github/workflows/publish-logseq.yml`。它会在 push 到 `master` 或手动触发时，使用 `logseq/publish-spa` 将 Logseq graph 发布到 `gh-pages` 分支。
 
-发布前后可能还需要在 GitHub 仓库设置中确认：Settings -> Pages -> Build and deployment 选择 `gh-pages` 分支作为发布来源。
+当前发布工作流已配置并成功生成 `gh-pages` 分支。GitHub Pages 仍需要在仓库设置中启用：Settings -> Pages -> Source 选择 `Deploy from a branch`，Branch 选择 `gh-pages / root`。
 
 ## 升级记录
 
 本次升级报告见 [docs/UPGRADE_REPORT_L2022_1A.md](docs/UPGRADE_REPORT_L2022_1A.md)。
+
+发布检查报告见 [docs/PUBLISH_REPORT_L2022_1B.md](docs/PUBLISH_REPORT_L2022_1B.md)。
