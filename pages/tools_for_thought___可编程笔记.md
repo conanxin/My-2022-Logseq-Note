@@ -1,0 +1,36 @@
+title:: Tools for Thought / 可编程笔记
+
+- ## 主题简介
+  - 这条主线整理思考工具、可编程笔记、动态媒介和个人知识系统相关笔记。
+  - 它把 Heptabase、Programmable Notes、Dynamicland 等工具放进 Engelbart、Ted Nelson、Alan Kay、Bret Victor 的长线传统里理解。
+- ## 2022 年笔记中的代表性线索
+  - Heptabase 作为卡片、白板和知识操作系统的尝试。
+  - Programmable Notes 把笔记推进到规则、触发器和自动化动作。
+  - Subconscious、反向链接和双链笔记的日常使用想象。
+  - Dynamicland 与 Ink & Switch 对动态模型、直接操纵和可视化系统的关注。
+  - Engelbart、Ted Nelson、Alan Kay、Bret Victor 代表的思考媒介历史。
+- ## 关键标签
+  - #工具
+  - #设计
+  - Heptabase
+  - Programmable Notes
+  - Dynamicland
+  - Engelbart
+  - Alan Kay
+  - Bret Victor
+- ## 原始日记入口
+  - [[2022_05_10]]
+  - [[2022_05_12]]
+  - [[2022_05_13]]
+  - [[2022_05_14]]
+  - [[2022_05_16]]
+  - [[2022_05_17]]
+- ## 2026 年回看价值
+  - 这些笔记提醒我们，个人知识管理不只是文件整理。
+  - 真正的问题是怎样表示问题、建立连接、运行模型，并支持长期思考。
+- ## 可继续写成的文章题目
+  - 《可编程笔记：笔记系统如何开始行动》
+  - 《从 Engelbart 到 Heptabase 的思考工具线索》
+  - 《Dynamicland 为什么仍然重要》
+  - 《双链、白板和卡片：三种知识工作界面》
+  - 《AI 时代还需要 Tools for Thought 吗》

@@ -1,0 +1,29 @@
+/* L2022-1C: small readability polish for the public Logseq archive. */
+:root {
+  --ls-main-content-max-width: 920px;
+}
+
+.cp__sidebar-main-content {
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+.page-title {
+  margin-bottom: 1rem;
+  line-height: 1.2;
+}
+
+.ls-block {
+  line-height: 1.72;
+}
+
+.ls-block h1,
+.ls-block h2,
+.ls-block h3 {
+  margin-top: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+a {
+  text-underline-offset: 2px;
+}
